@@ -1,4 +1,4 @@
-# quiz
+# Flag Quiz
 
 A new Flutter project.
 
